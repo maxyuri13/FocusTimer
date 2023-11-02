@@ -21,7 +21,7 @@
   <img
     alt="Focus Timer"
     title="Focus Timer"
-    src="/Assets/Focus Timer Sun Mode.png" width="25%" height="25%"
+    src="/Assets/Focus Timer Sun Mode.png" width="75%" height="25%"
   />
 </p>
 
